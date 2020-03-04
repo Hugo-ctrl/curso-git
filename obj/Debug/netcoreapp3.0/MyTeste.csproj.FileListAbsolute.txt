@@ -9,3 +9,14 @@ c:\Projetos\MyTeste\bin\Debug\netcoreapp3.0\MyTeste.dll
 c:\Projetos\MyTeste\bin\Debug\netcoreapp3.0\MyTeste.pdb
 c:\Projetos\MyTeste\obj\Debug\netcoreapp3.0\MyTeste.dll
 c:\Projetos\MyTeste\obj\Debug\netcoreapp3.0\MyTeste.pdb
+c:\Projetos\curso-git\bin\Debug\netcoreapp3.0\MyTeste.exe
+C:\Projetos\curso-git\bin\Debug\netcoreapp3.0\MyTeste.deps.json
+C:\Projetos\curso-git\bin\Debug\netcoreapp3.0\MyTeste.runtimeconfig.json
+C:\Projetos\curso-git\bin\Debug\netcoreapp3.0\MyTeste.runtimeconfig.dev.json
+c:\Projetos\curso-git\bin\Debug\netcoreapp3.0\MyTeste.dll
+c:\Projetos\curso-git\bin\Debug\netcoreapp3.0\MyTeste.pdb
+c:\Projetos\curso-git\obj\Debug\netcoreapp3.0\MyTeste.csprojAssemblyReference.cache
+c:\Projetos\curso-git\obj\Debug\netcoreapp3.0\MyTeste.AssemblyInfoInputs.cache
+c:\Projetos\curso-git\obj\Debug\netcoreapp3.0\MyTeste.AssemblyInfo.cs
+c:\Projetos\curso-git\obj\Debug\netcoreapp3.0\MyTeste.dll
+c:\Projetos\curso-git\obj\Debug\netcoreapp3.0\MyTeste.pdb
